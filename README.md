@@ -8,10 +8,21 @@ entiendo que debo tener fuerte presencia de las piezas mayores en el centro, con
 * Jugadas ortodoxas:
     * _Ideas generales:_ No se rompe el centro, si no que se avanzan los peones centrales. 
     * Blancas: 
-    * Negras: La idea es atacar por el flanco de rey, retrocediendo caballo en Nf6 para lograr avanzar el peón de f5. Apoyar estos peones con la torre inicial de f8.
+        * Ataque balloneta: jugar &#9817;b4
+    * Negras: La idea es atacar por el flanco de rey, retrocediendo caballo en &#9816;f6 para lograr avanzar el &#9823;f5. Apoyar estos peones con la &#9820; inicialmente en f8.
 
-    &#9816; f6
+    
 
 
 
+---
 
+Unicode: 
+
+Blancas
+&#9816; caballo
+
+Negras
+&#9823; peon
+&#9822; caballo
+&#9820; torre
